@@ -10,7 +10,7 @@
         header("Location: pages/pedro.html");
     } elseif ($nome == "gabi" && $senha == "gabi123") {
         header("Location: pages/gabriela.html");
-    } elseif ($nome == "samuel" && $senha == "samuel123") {
+    } elseif ($nome == "samuel" && $senha == "Samurai09*") {
         header("Location: pages/samuel.html");
     }
     else {
